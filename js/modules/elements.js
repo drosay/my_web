@@ -23,7 +23,7 @@ const designs = `
 
   <div class="slider__section">
     <section class="section__img">
-      <img src="../assets/photos/designs/Delisandri Logo.png" alt="" class="slider__img">
+      <img src="./assets/photos/designs/Delisandri Logo.png" alt="" class="slider__img">
     </section>
     <section class="section__description">
       <div class="description__container">
@@ -40,7 +40,7 @@ const designs = `
 
   <div class="slider__section">
   <section class="section__img">
-    <img src="../assets/photos/designs/Hornets Logo.png" alt="" class="slider__img">
+    <img src="./assets/photos/designs/Hornets Logo.png" alt="" class="slider__img">
   </section>
   <section class="section__description">
     <div class="description__container">
@@ -57,7 +57,7 @@ const designs = `
 
   <div class="slider__section">
   <section class="section__img">
-    <img src="../assets/photos/designs/Tertulia Logo.png" alt="" class="slider__img">
+    <img src="./assets/photos/designs/Tertulia Logo.png" alt="" class="slider__img">
   </section>
   <section class="section__description">
     <div class="description__container">
@@ -74,7 +74,7 @@ const designs = `
 
   <div class="slider__section">
   <section class="section__img">
-    <img src="../assets/photos/designs/Cheat Logo.png" alt="" class="slider__img">
+    <img src="./assets/photos/designs/Cheat Logo.png" alt="" class="slider__img">
   </section>
   <section class="section__description">
     <div class="description__container">
