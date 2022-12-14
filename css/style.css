@@ -222,6 +222,14 @@ body {
   font-size: 5vw;
   margin-top: 2vw;
 }
+
+.cv h2{
+  text-align: center;
+  color: white;
+}
+.cv img{
+  width: 90vw;
+}
 /* MAIN END */
 
 /* MEDIA QUERYS */

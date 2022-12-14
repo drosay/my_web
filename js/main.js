@@ -55,7 +55,7 @@ function executeEvts(e){
 
 function resumeDl(){
     const resume = document.querySelector("a[name='resume'")
-    resume.setAttribute("href","./assets/cv/Dilan curriculum.pdf")
+    resume.setAttribute("href","./assets/cv/cv.pdf")
     resume.setAttribute("target","_blank")
     setTimeout(()=>{
         resume.setAttribute("href","#")
